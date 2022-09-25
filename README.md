@@ -1,6 +1,6 @@
-### Hey there 👋
+### Hey there 👋 I'm Hashir Hussain
 
-I mainly focus on web development. The stack that I am most comfortable with would be React & Nodejs using Typescript.
+8 years of professional experience in creating interactive web applications from design till database.My focus point is to deliver the quality application with best practices, test cases and code/API documentation. I'm currently working at HCL Technologies as a Technical Lead.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
